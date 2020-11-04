@@ -42,3 +42,27 @@ Com pontos:
 Tarefas:
 - [ ] Comprar um PC
 - [x] Lançar repositório de Python
+
+
+Tabela:
+
+Num | Nome | Nota
+---|---|---
+1 | Washington | 9,8
+2 | Pedro | 9,5
+3 | João | 8,0
+
+---
+
+Formatando código: 
+
+`código`
+
+ou
+
+
+```
+num = int(input())
+print(num)
+
+```
